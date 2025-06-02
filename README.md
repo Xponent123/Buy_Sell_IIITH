@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a dedicated Buy-Sell web application designed exclusively for the IIIT Community, created to circumvent the new Whatscap taxation policy on community buy-sell groups.
+This is a dedicated Buy-Sell web application designed exclusively for the IIIT Community.
 
 ### Tech Stack
 - **Frontend**: React
@@ -26,7 +26,7 @@ This is a dedicated Buy-Sell web application designed exclusively for the IIIT C
 - Add items to cart
 - Place and track orders
 - View order history
-- Seller review system
+
 
 ### Key Pages
 1. **Dashboard**
